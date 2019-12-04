@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Luxin Tian
 
-You can use the [editor on GitHub](https://github.com/luxin-tian/profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Master student in Computational Social Science at the [University of Chicago](https://uchicago.edu). 
+:cn: Chinese citizen. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### [The University of Chicago](https://uchicago.edu)
+MA in [Computational Social Science](https://macss.uchicago.edu), 2019 - 
 
-```markdown
-Syntax highlighted code block
+#### [Central Unviersity of Finance and Economics 中央财经大学](https://www.cufe.edu.cn)
+BA in Economics, 2015 - 2019
+BA in Finance, 2016 - 2019
 
-# Header 1
-## Header 2
-### Header 3
+#### [University of Cailfornia San Diego](https://ucsd.edu)
+Exchange studies
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Economics 
+- Degree Thesis: “The Effect of Venture Capital on R&D Activities of Small & Medium-sized Enterprises” (Mentor: Assoc. Prof. Weizeng Sun; Committee: Prof. Yifang Liu, Assoc. Prof. Hua Xu, Assoc. Prof. Zhendong Yin; Excellent Degree Thesis of 2019)
 
-**Bold** and _Italic_ and `Code` text
+-	Dual Degree Thesis: “The Impact of Household Debt on Consumption: An Empirical Study based on China Household Finance Survey Data” (Mentor: Assoc. Prof. Xu Wei)
 
-[Link](url) and ![Image](src)
-```
+ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Computational Social Science
+Learn more about the impact of [Computational Social Science](http://macss.uchicago.edu) in the digital age. 
 
-### Jekyll Themes
+- [Scoring Neighborhoods on the Earth](https://luxin-tian.github.io/Scoring-Neighborhoods-on-the-Earth/)
+- Research Proposal: Does China's Reform of College Admissions System Alleviate Gender Segregation in Education? A Natural Experiment Design.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luxin-tian/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+<luxintian@uchicago.edu>
