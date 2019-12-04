@@ -10,11 +10,11 @@ Master student in Computational Social Science at the [University of Chicago](ht
 #### [The University of Chicago](https://uchicago.edu)
 MA in [Computational Social Science](https://macss.uchicago.edu), 2019 - 
 
-#### [Central Unviersity of Finance and Economics 中央财经大学](https://www.cufe.edu.cn)
+#### [Central University of Finance and Economics 中央财经大学](https://www.cufe.edu.cn)
 BA in Economics, 2015 - 2019
 BA in Finance, 2016 - 2019
 
-#### [University of Cailfornia San Diego](https://ucsd.edu)
+#### [University of California San Diego](https://ucsd.edu)
 Exchange studies
 
 
