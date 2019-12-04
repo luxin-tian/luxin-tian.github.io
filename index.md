@@ -1,4 +1,5 @@
-# Luxin Tian
+# About Me
+田璐鑫 Luxin Tian
 
 Master student in Computational Social Science at the [University of Chicago](https://uchicago.edu). 
 
