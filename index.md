@@ -36,3 +36,4 @@ Learn more about the impact of [Computational Social Science](http://macss.uchic
 
 ## Contact
 <luxintian@uchicago.edu>
+[Follow me on LinkedIn](https://www.linkedin.com/in/lucientian/)
