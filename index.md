@@ -11,7 +11,7 @@ Master student in Computational Social Science (Economics) at the [University of
 #### __[The University of Chicago](https://uchicago.edu)__
 - ___MA in [Computational Social Science](https://macss.uchicago.edu)___, 2019 - 
 
-    ##### Courses
+    Courses
     - PPHA 44100 Advanced Microeconomics for Policy Analysis I (PhD level, A, highest grade in class)
     - MACS 30000 Perspectives on Computational Analysis (A)
     - MPCS 51046 Intermediate Python Programming (A-)
