@@ -1,10 +1,8 @@
 # About Me
 Luxin Tian
 田璐鑫 
-
-Master student in Computational Social Science (Economics) at the [University of Chicago](https://uchicago.edu). 
-
-:cn: Chinese citizen. 
+- Master student in Computational Social Science (Economics) at the [University of Chicago](https://uchicago.edu). 
+- :cn: Chinese citizen. 
 
 ## Education
 
@@ -53,6 +51,5 @@ __[China Association of Private Equity](http://www.bpea.net.cn/)__
 - ___Office Assistant Intern___, Beijing Private Equity Association. July 2017 – Aug 2017. Beijing, China.
 
 ## Contact
-<luxintian@uchicago.edu>
-
-[Find me on LinkedIn](https://www.linkedin.com/in/lucientian/)
+- <luxintian@uchicago.edu>
+- [Find me on LinkedIn](https://www.linkedin.com/in/lucientian/)
