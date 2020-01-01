@@ -1,5 +1,10 @@
 # theme: jekyll-theme-cayman
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
+theme: jekyll-theme-slate
+show_downloads: true
+github:
+  zip_url: http://www.google.com
+  tar_url: http://luxintian.com
 title: Luxin Tian
 description: Master student in Computaional Social Science (Economics) at the University of Chicago. 
 plugins:
