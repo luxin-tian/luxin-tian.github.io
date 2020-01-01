@@ -2,7 +2,7 @@
 Luxin Tian
 田璐鑫 
 
-Master student in Computational Social Science at the [University of Chicago](https://uchicago.edu). 
+Master student in Computational Social Science (Economics) at the [University of Chicago](https://uchicago.edu). 
 
 :cn: Chinese citizen. 
 

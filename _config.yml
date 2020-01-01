@@ -1,5 +1,6 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 title: Luxin Tian
-description: Master student in Computaional Economics at the University of Chicago. 
+description: Master student in Computaional Social Science (Economics) at the University of Chicago. 
 plugins:
   - jemoji
