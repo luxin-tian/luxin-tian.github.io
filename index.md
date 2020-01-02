@@ -6,7 +6,7 @@ Luxin Tian
 
 ## Education
 
-#### __[The University of Chicago](https://uchicago.edu)__
+__[The University of Chicago](https://uchicago.edu)__
 - ___MA in [Computational Social Science](https://macss.uchicago.edu)___, 2019 - 
 
     Courses
@@ -14,11 +14,11 @@ Luxin Tian
     - MACS 30000 Perspectives on Computational Analysis (A)
     - MPCS 51046 Intermediate Python Programming (A-)
 
-#### __[Central University of Finance and Economics 中央财经大学](https://www.cufe.edu.cn)__
+__[Central University of Finance and Economics 中央财经大学](https://www.cufe.edu.cn)__
 - ___BA in Economics___, 2015 - 2019, Honors Degree Thesis
 - ___BA in Finance___, 2016 - 2019
 
-#### __[University of California San Diego](https://ucsd.edu)__
+__[University of California San Diego](https://ucsd.edu)__
 - University and Professional Studies Program (UPS), 2018
 
 ## Research and Projects
