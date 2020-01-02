@@ -6,6 +6,7 @@ Luxin Tian
 
 ## Education
 
+
 __[The University of Chicago](https://uchicago.edu)__
 - ___MA in [Computational Social Science](https://macss.uchicago.edu)___, 2019 - 
 
