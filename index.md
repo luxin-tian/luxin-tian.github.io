@@ -15,7 +15,7 @@ __[The University of Chicago](https://uchicago.edu)__
     - MACS 30000 Perspectives on Computational Analysis (A)
     - MPCS 51046 Intermediate Python Programming (A-)
 
-__[Central University of Finance and Economics 中央财经大学](https://www.cufe.edu.cn)__
+__[Central University of Finance and Economics 中央财经大学](http://www.cufe.edu.cn)__
 - ___BA in Economics___, 2015 - 2019, Honors Degree Thesis
 - ___BA in Finance___, 2016 - 2019
 
@@ -39,7 +39,7 @@ Learn more about the impact of [Computational Social Science](http://macss.uchic
 
 __[DiDi](https://www.didiglobal.com/)__
 - ___Business Analyst Intern___, Platform Governance, Xiaoju Auto Solutions. Nov 2018 – Dec 2018. Beijing, China.
-- ___Business Analyst Intern___, Regional Strategic Center, DiDi Express. Oct 2018 - Nov 2018. Beijing, China.
+- ___Business Analyst Intern___, Regional Operational Strategy, DiDi Express. Oct 2018 - Nov 2018. Beijing, China.
 
 __[Perfect Puzzle Capital](https://xueqiu.com/u/5159309685)__
 - ___Research Assistant Intern___, GP Office. May 2018 – Aug 2018. Beijing, China.
