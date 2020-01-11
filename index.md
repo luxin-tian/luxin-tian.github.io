@@ -4,6 +4,8 @@ Luxin Tian
 - Master student in Computational Social Science (Economics) at the [University of Chicago](https://uchicago.edu). 
 - :cn: Chinese citizen. 
 
+[Curriculum Vitae](./Luxin_Tian_CV.pdf)
+
 ## Education
 
 
