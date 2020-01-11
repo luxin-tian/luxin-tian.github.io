@@ -52,5 +52,5 @@ __[China Association of Private Equity](http://www.bpea.net.cn/)__
 - ___Office Assistant Intern___, Beijing Private Equity Association. July 2017 – Aug 2017. Beijing, China.
 
 ## Contact
-- <luxintian@uchicago.edu>
+- <info@luxintian.com>
 - [Find me on LinkedIn](https://www.linkedin.com/in/lucientian/)
