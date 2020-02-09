@@ -1,13 +1,12 @@
 # About Me
 Luxin Tian
-田璐鑫 
+
 - Master student in Computational Social Science (Economics) at the [University of Chicago](https://uchicago.edu). 
 - :cn: Chinese citizen. 
 
 [Curriculum Vitae](./Luxin_Tian_CV.pdf)
 
 ## Education
-
 
 __[The University of Chicago](https://uchicago.edu)__
 - ___MA in [Computational Social Science](https://macss.uchicago.edu)___, 2019 - 
@@ -29,6 +28,7 @@ __[University of California San Diego](https://ucsd.edu)__
 ### Computational Social Science
 Learn more about the impact of [Computational Social Science](http://macss.uchicago.edu) in the digital age. 
 
+- <span style="color:blue">some *`nCov2019`: a Python package that provide tools to query statistic data of the [2019 Novel Coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/index.html) transmission. * text</span>
 - [Scoring Neighborhoods on the Earth](https://luxin-tian.github.io/Scoring-Neighborhoods-on-the-Earth/)
 - Research Proposal: Does China's Reform of College Admissions System Alleviate Gender Segregation in Education? A Natural Experiment Design.
 
