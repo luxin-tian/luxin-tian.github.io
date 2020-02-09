@@ -28,7 +28,7 @@ __[University of California San Diego](https://ucsd.edu)__
 ### Computational Social Science
 Learn more about the impact of [Computational Social Science](http://macss.uchicago.edu) in the digital age. 
 
-- <span style="color:blue"> [`nCov2019`](https://www.luxintian.com/nCov2019): a Python package that provide tools to query statistic data of the [2019 Novel Coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/index.html) transmission. </span>
+- <span style="color:blue"> [`nCov2019`](https://luxintian.com/nCov2019): a Python package that provide tools to query statistic data of the [2019 Novel Coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/index.html) transmission. </span>
 - [Scoring Neighborhoods on the Earth](https://luxin-tian.github.io/Scoring-Neighborhoods-on-the-Earth/)
 - Research Proposal: Does China's Reform of College Admissions System Alleviate Gender Segregation in Education? A Natural Experiment Design.
 
