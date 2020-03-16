@@ -1,20 +1,27 @@
-# About Me
-Luxin Tian
+# Luxin Tian
 
 - Master student in Computational Social Science (Economics) at the [University of Chicago](https://uchicago.edu). 
 - :cn: Chinese citizen. 
-
-[Curriculum Vitae](./Luxin_Tian_CV.pdf)
+- <info@luxintian.com>
 
 ## Education
 
 __[The University of Chicago](https://uchicago.edu)__
 - ___MA in [Computational Social Science](https://macss.uchicago.edu)___, 2019 - 
 
-    Courses
+    PhD Courses
     - PPHA 44100 Advanced Microeconomics for Policy Analysis I (PhD level, A, highest grade in class)
-    - MACS 30000 Perspectives on Computational Analysis (A)
-    - MPCS 51046 Intermediate Python Programming (A-)
+    - PPHA 44100 Advanced Microeconomics for Policy Analysis II
+
+    Skills
+    - Python3
+    - Machine Learning 
+    - Natural Language Processing
+    - Stata
+    - Git
+    - LaTeX
+    - VBA
+    - Tableau
 
 __[Central University of Finance and Economics 中央财经大学](http://www.cufe.edu.cn)__
 - ___BA in Economics___, 2015 - 2019, Honors Degree Thesis
@@ -30,7 +37,7 @@ Learn more about the impact of [Computational Social Science](http://macss.uchic
 
 - <span style="color:red"> [`nCov2019`](https://luxintian.com/nCov2019): a Python package that provide tools to query statistic data of the [2019 Novel Coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/index.html) transmission. </span>
 - [Scoring Neighborhoods on the Earth](https://luxin-tian.github.io/Scoring-Neighborhoods-on-the-Earth/)
-- Research Proposal: Does China's Reform of College Admissions System Alleviate Gender Segregation in Education? A Natural Experiment Design.
+- Luxin Tian, Heather Chen. State Preferences for Political Agenda and Ideology Proximity: A Computational Content Analysis Project on the United Nations General Debate Corpus. 
 
 ### Economics and Finance
 - Degree Thesis: “The Effect of Venture Capital on R&D Activities of Small & Medium-sized Enterprises” (Mentor: Assoc. Prof. Weizeng Sun; Committee: Prof. Yifang Liu, Assoc. Prof. Hua Xu, Assoc. Prof. Zhendong Yin; Excellent Degree Thesis of 2019)
