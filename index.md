@@ -4,24 +4,26 @@
 - :cn: Chinese citizen. 
 - <info@luxintian.com>
 
+## Courses and Skills
+
+PhD Courses
+- PPHA 44100 Advanced Microeconomics for Policy Analysis I (PhD level, A, highest grade in class)
+- PPHA 44100 Advanced Microeconomics for Policy Analysis II
+
+Skills
+- Python3
+- Machine Learning 
+- Natural Language Processing
+- Stata
+- Git
+- LaTeX
+- VBA
+- Tableau
+
 ## Education
 
 __[The University of Chicago](https://uchicago.edu)__
 - ___MA in [Computational Social Science](https://macss.uchicago.edu)___, 2019 - 
-
-    PhD Courses
-    - PPHA 44100 Advanced Microeconomics for Policy Analysis I (PhD level, A, highest grade in class)
-    - PPHA 44100 Advanced Microeconomics for Policy Analysis II
-
-    Skills
-    - Python3
-    - Machine Learning 
-    - Natural Language Processing
-    - Stata
-    - Git
-    - LaTeX
-    - VBA
-    - Tableau
 
 __[Central University of Finance and Economics 中央财经大学](http://www.cufe.edu.cn)__
 - ___BA in Economics___, 2015 - 2019, Honors Degree Thesis
