@@ -39,9 +39,9 @@ __[University of California San Diego](https://ucsd.edu)__
 ### Computational Social Science
 Learn more about the impact of [Computational Social Science](http://macss.uchicago.edu) in the digital age. 
 
+- Luxin Tian, Heather Chen. [State Preferences for Political Agenda and Ideology Proximity: A Computational Content Analysis Project on the United Nations General Debate Corpus](https://luxintian.com/UNGDC). 
 - <span style="color:red"> [`nCov2019`](https://luxintian.com/nCov2019): a Python package that provide tools to query statistic data of the [2019 Novel Coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/index.html) transmission. </span>
-- [Scoring Neighborhoods on the Earth](https://luxin-tian.github.io/Scoring-Neighborhoods-on-the-Earth/)
-- Luxin Tian, Heather Chen. State Preferences for Political Agenda and Ideology Proximity: A Computational Content Analysis Project on the United Nations General Debate Corpus. 
+- [Scoring Neighborhoods on the Earth](https://luxintian.com/Scoring-Neighborhoods-on-the-Earth/)
 
 ### Economics and Finance
 - Degree Thesis: “The Effect of Venture Capital on R&D Activities of Small & Medium-sized Enterprises” (Mentor: Assoc. Prof. Weizeng Sun; Committee: Prof. Yifang Liu, Assoc. Prof. Hua Xu, Assoc. Prof. Zhendong Yin; Excellent Degree Thesis of 2019)
