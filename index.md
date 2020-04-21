@@ -1,37 +1,30 @@
 # Luxin Tian 
 
-### [中文简历](./田璐鑫_芝加哥大学_计算社会科学硕士_经济学.pdf)
+**[中文简历](./田璐鑫_芝加哥大学_计算社会科学硕士_经济数据科学方向.pdf)
+**
 
 - Master student in Computational Social Science (Economics) at the [University of Chicago](https://uchicago.edu). 
 - :cn: Chinese citizen. 
 - <info@luxintian.com>
 
-## Courses and Skills
-
-PhD Courses
-- PPHA 44100 Advanced Microeconomics for Policy Analysis I (PhD level, A, highest grade in class)
-- PPHA 44100 Advanced Microeconomics for Policy Analysis II (PhD level, A)
-
-Skills
-- Python3
-- Machine Learning 
-- Natural Language Processing
-- Stata
-- Git
-- LaTeX
-- VBA
-- Tableau
-
 ## Education
 
 __[The University of Chicago](https://uchicago.edu)__
+
 - ___MA in [Computational Social Science](https://macss.uchicago.edu)___, 2019 - 
 
+### Ph.D. Courses
+
+- PPHA 44100 Advanced Microeconomics for Policy Analysis I (PhD level, A, highest grade in class)
+- PPHA 44100 Advanced Microeconomics for Policy Analysis II (PhD level, A)
+
 __[Central University of Finance and Economics 中央财经大学](http://www.cufe.edu.cn)__
+
 - ___BA in Economics___, 2015 - 2019, Honors Degree Thesis
 - ___BA in Finance___, 2016 - 2019
 
 __[University of California San Diego](https://ucsd.edu)__
+
 - University and Professional Studies Program (UPS), 2018
 
 ## Research and Projects
